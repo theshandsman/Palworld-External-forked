@@ -1,5 +1,7 @@
 # Palworld-External
 
+***Forked this repo so that I could experiment. Using it for single player...
+
 このプロジェクトは想定では全くソースを公開しない予定でしたが、私がゲームに飽きた事とゲームの人気が一気に無くなった為ソースを公開する事にしました。
 殆どこれが更新される事は無いでしょう。
 そして、5/12で試した時点ではOtomoPalの機能が機能しません。
