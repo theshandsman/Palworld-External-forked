@@ -7,4 +7,7 @@
 そして、5/12で試した時点ではOtomoPalの機能が機能しません。
 プロジェクトがベータリリースのままこうなってしまったのは悲しいです。
 
+Google Translation:
+This project was originally not intended to have its source code released at all, but I've decided to release it because I've grown tired of the game and its popularity has suddenly plummeted. It's unlikely to be updated very often. Also, as of May 12th, the OtomoPal functionality doesn't work. It's sad that the project ended up like this while still in beta.
+
 [UnknownCheats Link](https://www.unknowncheats.me/forum/palworld/620558-palworld-external-cheat.html)
